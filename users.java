@@ -1,7 +1,7 @@
-@@chinni annam thinava
-####commit it
 
-welcome to nkd
+
+welcome
+hi every one
 hi we are in testing branch
 moving to master brench
-merge two branches
+merge two bran
